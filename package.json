@@ -1,0 +1,13 @@
+{
+  "name": "@codexporer.io/expo-scroll-tools",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-magnetic-di": "*",
+    "styled-components": "*",
+    "lodash": "*",
+    "react-native-paper": "*",
+    "@codexporer.io/react-test-utils": "*"
+  }
+}
